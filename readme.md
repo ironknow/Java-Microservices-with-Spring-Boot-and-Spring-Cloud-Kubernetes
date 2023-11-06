@@ -10,6 +10,7 @@ This Reference Architecture demonstrates design, development, and deployment of
 Kubernetes. Each section covers architectural recommendations and configuration
 for each concern when applicable.
 
+
 High-level key recommendations:
 
 - Consider Best Practices in Cloud Native Applications and [The 12
